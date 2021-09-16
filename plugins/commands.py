@@ -9,12 +9,13 @@ I am a movie information finder bot.
 
 > `I can find information of all movies.`
 
-Made by @FayasNoushad"""
+Made With Love by @ToxicDeeModderr"""
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
-        text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        text='💚JOIN MY CHANNEL
+         ',
+        url='https://telegram.me/TheBotsWorldChannel'
     )
 ]
 
