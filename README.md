@@ -32,7 +32,7 @@ License -> https://github.com/FayasNoushad/Movie-Info-Bot/blob/main/LICENSE
 <br/>
 
 ```sh
-git clone https://github.com/FayasNoushad/Movie-Info-Bot/tree/main
+git clone https://github.com/ToxicDeeModder1/Movie-Info-Bot/tree/main
 cd Movie-Info-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
